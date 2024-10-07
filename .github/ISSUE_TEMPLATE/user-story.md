@@ -7,6 +7,13 @@ assignees: ''
 
 ---
 
-*As a* [Role]
-- *I need* [What the user story needs to do]
-- *So that* [Why this user story is necessary]
+**As a** [Role]
+- **I need** [What the user story needs to do]
+- **So that** [Why this user story is necessary]
+
+
+### Detial and Assupmtions:
+- * [document what you know]
+
+
+### Acceptance Criteria: 
